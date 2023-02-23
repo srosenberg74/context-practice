@@ -26,7 +26,9 @@ const styles = StyleSheet.create({
         borderRadius: 12,
         textAlign: "center",
         marginHorizontal: 5,
-        width: 30
+        width: 30,
+        justifyContent: "center",
+        alignItems: "center"
     },
     buttonHolder: {
         flexDirection: "row",
